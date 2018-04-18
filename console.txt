@@ -1,0 +1,14 @@
+Reading in: alice.txt..
+alice.txt stored!
+Reading in: big.txt..
+big.txt stored!
+Reading in: dorian.txt..
+dorian.txt stored!
+Reading in: frankenstein.txt..
+frankenstein.txt stored!
+Reading in: moby.txt..
+moby.txt stored!
+Reading in: pride.txt..
+pride.txt stored!
+Reading in: twoCities.txt..
+twoCities.txt stored!
