@@ -137,7 +137,7 @@ public class MapReduce2 {
 			
 			synchronized (groupedItems) {
 
-
+				
 				while(mappedIter.hasNext()) {
 					MappedItem item = mappedIter.next();
 					String word = item.getWord();
@@ -155,9 +155,11 @@ public class MapReduce2 {
 						list = new LinkedList<String>();
 						groupedItems.put(word, list);
 					}*/
-					groupCluster.add(future);
+					/*groupCluster.add(future);
+					*/
 					
-					
+				
+				
 				}
 			}
 			
