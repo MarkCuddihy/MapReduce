@@ -138,6 +138,7 @@ public class MapReduce2 {
 			synchronized (groupedItems) {
 
 				
+				
 				while(mappedIter.hasNext()) {
 					MappedItem item = mappedIter.next();
 					String word = item.getWord();
